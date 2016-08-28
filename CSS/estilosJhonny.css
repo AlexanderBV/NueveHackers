@@ -10,3 +10,15 @@
 
     animation: banner 8s infinite;
     animation-direction: alternate;
+}
+
+@keyframes banner {
+
+    0%, 30% {
+        background-image:url(IMG/cebiche_1.jpg);
+        opacity: 1;
+    }
+
+    31%, 34% {
+        background-image: url(IMG/cebiche_2.jpg);
+        opacity: 0.1;
