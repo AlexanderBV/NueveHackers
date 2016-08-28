@@ -1,0 +1,45 @@
+@media screen and (max-width: 900px){
+	header #menu{
+		height: 100%;
+		position: fixed;
+		background: #0040FF;
+		top: 0px;
+		left: -100%;
+		width: 300px;
+		margin: 0px auto;
+	}
+
+	header #menu ul a{
+		display: block;
+	}
+
+	#abrir_menu{
+		display: block;
+	}
+
+	header #menu nav{
+		display: block;
+	}
+
+	#cerrar_menu{
+	font-size: 20px;
+	float: right;
+	padding: 4px;
+	color: white;
+	opacity: .6;
+	}
+	#acerca-main{
+		width: 100%
+	}
+	#servicios-main{
+		width: 100%
+	}
+	#servicios-main ul a{
+		width: 80%;
+		padding: 8px;
+		font-size: 20px;
+	}
+	#contacto-main{
+		width: 100%;
+	}
+}
