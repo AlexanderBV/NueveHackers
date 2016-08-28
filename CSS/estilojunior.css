@@ -86,3 +86,9 @@ input, select, textarea {
 	.login .contain { max-width: 350px; }
 	.login .col { width: 100%; padding: 0;}
 
+/* -------- 2. GENERIC ITEMS -------- */
+
+	.content header { padding-bottom: 80px; font-size: 45px; font-weight: 300; line-height: 1.2}
+		.content header p { font-size: 30px;}
+
+	.btn { width: 150px; background: #740900; color: #fff; text-align: center; border:0; padding: 10px 20px; font-size: 18px;  text-decoration: none;}
