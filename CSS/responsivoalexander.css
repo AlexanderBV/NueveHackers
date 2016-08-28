@@ -43,3 +43,18 @@
 		width: 100%;
 	}
 }
+@media screen and (max-width: 450px){
+	header #menu{
+		width: 70%;
+	}
+	#incio img{
+		height: 100px;
+
+	}
+	#servicios-main ul a{
+		width: 70%;
+		padding: 8px;
+		font-size: 20px;
+	}
+
+}
