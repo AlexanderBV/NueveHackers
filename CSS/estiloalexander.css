@@ -11,3 +11,9 @@ header{
 	position: fixed;
 	z-index:2;
 }
+header #logo h2{
+	font-family:Verdana;
+	font-size: 20px;
+	color: azure;
+	margin: 10px 0px 0px 10px;
+}
