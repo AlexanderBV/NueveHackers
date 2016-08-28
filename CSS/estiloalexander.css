@@ -168,3 +168,47 @@ h3{
 	background: #fff;
 	color: #0080FF;
 }
+
+#contacto{
+	width: 100%;
+	background: #fff;
+}
+#contacto-main{
+	width: 880px;
+	margin-bottom: auto;
+	padding-bottom: 30px;
+}
+#contacto-main h3{
+	color: #0080FF;
+}
+#contacto-main form input{
+	border: 4px solid #8181F7;
+	width: 90%;
+	height: 30px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	margin-bottom: 6px;
+	font-family: Vergana;
+	font-size: 18px;
+}
+#contacto-main textarea{
+	border: 4px solid #8181F7;
+	width: 90%;
+	height: 90px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	margin-bottom: 6px;
+	font-family: Vergana;
+	font-size: 18px;
+}
+#boton{
+	background: #8181F7;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+
+}
