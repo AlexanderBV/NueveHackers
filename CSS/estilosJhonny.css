@@ -1,0 +1,12 @@
+.banner{
+    width: 700px;
+    height: 400px;
+    border: 7px solid blue;
+    margin: auto;
+
+
+
+    background-size: 100% 100%;
+
+    animation: banner 8s infinite;
+    animation-direction: alternate;
