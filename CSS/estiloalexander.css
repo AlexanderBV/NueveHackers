@@ -2,3 +2,12 @@
 	padding: :0px;
 	margin: 0px;
 }
+header{
+	width: 100%;
+	background:#2E9AFE;
+	height: 54px;
+	border-top: 4px solid #0040FF;
+	border-bottom: 4px solid #0040FF;
+	position: fixed;
+	z-index:2;
+}
