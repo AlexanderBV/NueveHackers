@@ -22,3 +22,18 @@
     31%, 34% {
         background-image: url(IMG/cebiche_2.jpg);
         opacity: 0.1;
+
+        }
+    35%, 65% {
+        background-image: url(IMG/cebiche_3.jpg);
+        opacity: 1;
+    }
+
+     66%, 69% {
+        opacity: 0.1;
+    }
+    70%, 100% {
+        opacity: 1;
+        background-image: url(IMG/cebiche_4.jpg);
+    }
+}
