@@ -132,3 +132,39 @@ h3{
 	opacity: 0.8;
 	color: black;
 }
+#servicios{
+	width: 100%;
+	background: #0080FF;
+}
+#servicios-main{
+	width: 890px%;
+	margin: auto;
+	padding-bottom: 30px;
+}
+#servicios-main h3{
+	color: white;
+}
+#servicios-main ul a{
+	text-decoration: none;
+	color: white;
+	width: 430px;
+	margin: 4px;
+	border: 3px solid #fff;
+	padding: 30px;
+	display: inline-block;
+	font-family: Vergana;
+	font-size: 24px;
+	font-weight: bold;
+	-webkit-transition:background 0.7s;
+	-moz-transition: background 0.7s;
+	-o-transition: background 0.7s;
+}
+#servicios-main ul a span{
+	float: left;
+	font-size: 40px;
+}
+
+#servicios-main ul a:hover{
+	background: #fff;
+	color: #0080FF;
+}
