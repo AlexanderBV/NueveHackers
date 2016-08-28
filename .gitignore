@@ -3,3 +3,160 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="description" content="" />
+<meta charset="utf-8">
+<title>Poryecto</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="capa">
+	<div id="menu">
+		<ul>
+			<li class="lista"><a href="#">Home</a></li>
+			<li><a id="sala" href="http://gnula.nu/">Peliculas</a></li>
+			<li><a id="sala" href="http://www.americatv.com.pe/deportes/">Deportes</a></li>
+			<li><a id="sala" href="http://rpp.pe/">Noticias</a></li>
+			<li><a id="sala" href="http://tv-envivo.net/">TV</a></li>
+			<li><a id="sala" href="https://www.facebook.com/jeisoneli.sanchezcalle">Acerca de</a></li>
+		</ul>
+	</div>
+
+
+	<div id="header">
+		<div id="logo">
+
+
+		<marquee><h1 id="ejemplo">Jeison Sanchez Calle</h1></marquee>
+
+
+		</div>
+	</div>
+
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+
+
+			<div class="post">
+				<h2 class="title"><a href="#">Jeison E. Sanchez Calle</a></h2>
+				<p class="meta"></p>
+				<div style="clear: both;"></div>
+				<div class="entry">
+					<p>Cuentan que una vez un hombre caminaba por la playa en una noche de luna llena mientras pensaba:
+
+<li>“Si tuviera un auto nuevo, sería feliz”</li>
+<li>” Si tuviera una casa grande, sería feliz”</li>
+<li>” Si tuviera un excelente trabajo, sería feliz”</li>
+<li>” Si tuviera pareja perfecta, sería feliz”</li>
+<br>
+En ese momento, tropezó con una bolsita llena de piedras y empezó a tirarlas una por una al mar cada vez que decía: “Sería feliz si tuviera…”
+
+Así lo hizo hasta que solamente quedaba una piedrita en la bolsa, la cual guardó. Al llegar a su casa se dio cuenta de que aquella piedrita era un diamante muy valioso. ¿Te imaginas cuantos diamantes arrojó al mar sin detenerse y apreciarlos?
+
+¿Cuántos de nosotros pasamos arrojando nuestros preciosos tesoros por estar esperando lo que creemos perfecto o soñado y deseando lo que no se tiene, sin darle valor a lo que tenemos cerca nuestro?
+
+Mira a tu alrededor y si te detienes a observar te darás cuenta de lo afortunado que eres, muy cerca de ti está tu felicidad, y no le has dado la oportunidad de demostrarlo.
+Cada uno de nuestros días es un diamante precioso, valioso e irremplazable.
+Depende de ti aprovecharlo o lanzarlo al mar del olvido para nunca más poder recuperarlo.</p>
+
+				</div>
+			</div>
+
+			<div class="post">
+				<h2 class="title"><a href="#">Misión</a></h2>
+				<div style="clear: both;"></div>
+				<div class="entry">
+					<p>Soy una persona con muchas metas e ideales por cumplir en la vida y tengo las suficientes cualidades que me ayudarán a alcanzar mis objetivos trazados. Las virtudes que respaldan mi accionar día a día son la perseverancia, la responsabilidad, la inteligencia, la amabilidad, el respeto hacia los demás, ser sencilla y sociable.  Soy un ser humano consciente de mis actos y que trato de mejorar cada día para alcanzar mis metas, respaldándome de la confianza que tengo en mi persona.</p>
+
+				</div>
+			</div>
+
+
+
+			<div class="post">
+				<h2 class="title"><a href="#">Visión</a></h2>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>En el futuro seré una persona exitosa, realizada tanto en el aspecto personal como profesional, es decir, espero tener una familia consolidada, tener un buen puesto de trabajo dentro del ámbito de mi carrera profesional, un buen sueldo, espero tener mi casa propia en la ciudad y en la playa, espero tener mi propia auto, viajar mucho para conocer diversos países y  culturas, espero tener a mi lado a mis principales seres queridos. Finalmente, espero enfrentar satisfactoriamente los problemas que puedan surgir en el camino y siempre luchar por lo que quiero ser a pesar de las adversidades y sobre todo espero ser inmensamente feliz con lo que el Señor tenga preparado para mi y mi familia.</p>
+
+				</div>
+			</div>
+
+
+		<div style="clear: both;"></div>
+		</div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<li>
+					<div id="search" >
+					<form method="get" action="#">
+						<div>
+							<input type="text" name="s" id="search-text" value="" />
+							<input type="submit" id="search-submit" value="GO" />
+						</div>
+					</form>
+					</div>
+
+					<div style="clear: both;"></div>
+				</li>
+
+				<li>
+					<h2>Música & Videos</h2>
+					<p>Mis espacios de Entretenimiento, audio y video en mis tiempos libres.</p>
+				</li>
+
+
+				<li>
+					<h2>Favoritos</h2>
+					<ul>
+						<li><a href="https://www.youtube.com/watch?v=ShcpC8sBnjk">Di Que No Te Vas</a></li>
+						<li><a href="https://www.youtube.com/watch?v=_gm5piKnrS4">Cómo Te Atreves</a></li>
+						<li><a href="https://www.youtube.com/watch?v=qaZ0oAh4evU">Sófia</a></li>
+						<li><a href="https://www.youtube.com/watch?v=oM9uPk6IN94">Enamórate</a></li>
+						<li><a href="https://www.youtube.com/watch?v=RDmhoVa_ZGw">Paraiso</a></li>
+						<li><a href="https://www.youtube.com/watch?v=qdySinddDHw">Cheque Al Portamor</a></li>
+					</ul>
+				</li>
+				<li>
+					<h2>Transmisión En Vivo</h2>
+					<ul>
+						<li><a href="https://www.youtube.com/channel/UC_mU_-rhq4phlXCNbZfFezw">Televisa</a></li>
+						<li><a href="https://www.youtube.com/watch?v=qRzXUrTpimM&list=PL9nNoZcdx9krGvndI9HnS_-BihWd8ZKUu">Canal Htv</a></li>
+						<li><a href="https://www.youtube.com/watch?v=HwA-ej0ftvU&list=PL9nNoZcdx9kp-p4Ald3uYSbETORAuQX-4">Bilboard</a></li>
+						<li><a href="https://www.youtube.com/watch?v=BToA5SZSdMU">Balon De Oro</a></li>
+						<li><a href="https://www.youtube.com/watch?v=90H7cP8qLNY">Óscar</a></li>
+						<li><a href="https://www.youtube.com/watch?v=zPNOVRzOa6g">Yo Soy</a></li>
+					</ul>
+				</li>
+
+			</ul>
+		</div>
+
+
+		<div style="clear: both;"></div>
+	</div>
+	</div>
+
+	</div>
+
+
+
+</div>
+	<div id="footer">
+		<h6>Redes Sociales</h6>
+		<section>
+		<a id="red" href="https://www.facebook.com/">Facebook</a>
+		<a id="red" href="https://twitter.com/iniciarsesion?lang=es">Twiter</a>
+		<a id="red" href="https://www.instagram.com/">Instagram</a>
+		</section>
+	</div>
+
+</body>
+</html>
