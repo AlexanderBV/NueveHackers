@@ -106,3 +106,29 @@ header #menu ul a:hover{
 	background: #fff;
 	color: #0040FF;
 }
+
+#acerca{
+	width: 100%;
+	background: #fff;
+}
+
+#acerca-main{
+	width: 880px;
+	margin: auto;
+	padding-bottom: 30px;
+}
+
+h3{
+	font-size: 30px;
+	font-family:Verdana;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+#acerca-main h3{
+	color: #0B2161;
+}
+#acerca-main p{
+	font-family: Verdana;
+	opacity: 0.8;
+	color: black;
+}
