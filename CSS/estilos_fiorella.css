@@ -21,3 +21,9 @@ header{
     z-index: 2;
     position: fixed;
 }
+header h2{
+    text-align: center;
+    color: #f2f2f2;
+    font-family: Verdana;
+    font-size: 35px;
+}
