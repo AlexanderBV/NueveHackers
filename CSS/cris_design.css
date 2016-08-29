@@ -8,14 +8,14 @@
 
 body {
 	background:url(/IMG/renzler.gif);
-	background-attachment: fixed; /* imagen fija */
+	background-attachment: fixed;
 
 
 	font-family:helvetica, arial, sans-serif;
 	line-height:20px;
 }
 
-.datostxt {
+.datostxt { /*nombre de mi clase*/
 	width: 90%;
 	max-width:900px;
 	margin: auto;
