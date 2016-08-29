@@ -122,3 +122,15 @@ article p{
     font-size: 16px;
     padding: 40px;
 }
+#inicio img{
+    height: 400px;
+    opacity: .8;
+    margin-bottom: 30px;
+    transition: height 0.7s;
+}
+
+footer{
+    width: 100%;
+    border-top:4px solid #086A87;
+    border-bottom: 4px solid #086A87;
+}
