@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+    margin-top: 10px;
+	background: #00f;
+}
+body, td {
+    font: 25px "Forte",Verdana, Arial, Helvetica, sans-serif;
+}
+#subTitle {
+    background: #000;  color: #fff;  padding: 4px;  font-weight: bold;
+}
+#boton{
+    background: #FFFF00; font-weight: bold;
+}
+
+#siteNavigation a, #siteNavigation .current {
+	font-weight: bold;  color: #448;
+}
+#siteNavigation .current {
+    background-color: #ccd;
+}
+
+#siteNavigation a:hover   { text-decoration: none;  background-color: #fff;  color: #000; }
+#siteNavigation a:active  { text-decoration: none;  background-color: #ccc; }
+
+#pageContent {
+	clear: both;
+	border-bottom: 10px solid #000;
+	padding: 6px;  padding-top: 20px;
+	line-height: 2em;
+    background-color: #ccd;
+    }
+
+#pageContent, #siteNavigation {
+	background-color: #ccd;
+	}
+h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 2em;
+}
+#img1{
+    margin: 10px;
+    width: 500px;
+    height: 300px;
+    border: 5px solid #000;
+    padding: 10x;
+}
+#img2{
+    margin: 10px;
+    width: 500px;
+    height: 300px;
+    border: 5px solid #000;
+    padding: 6px;
+}
+#img3{
+    margin: 10px;
+    width: 500px;
+    height: 300px;
+    border: 5px solid #000;
+    padding: 6px;
+}
+#img4{
+    margin: 10px;
+    width: 500px;
+    height: 300px;
+    border: 5px solid #000;
+    padding: 6px;
+}
