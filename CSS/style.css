@@ -2,9 +2,8 @@
 body {
 	margin: 0;
 	padding: 0;
-	background:rgba(252, 252, 6, 0.96)
-
-	url(IMG/img01.gif) repeat-x left top;
+	background:#71706e
+		url(/IMG/img01.png) repeat-x left top;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #787878;
@@ -66,7 +65,7 @@ a:hover {
 	height: 280px;
 	margin: 0 auto;
 	padding: 0px;
-	background: url(IMG/img06.png) no-repeat left top;
+	background: url(/IMG/img06.png) no-repeat left top;
 }
 
 /* Logo */
@@ -175,7 +174,7 @@ a:hover {
 	height: 30px;
 	margin-right: 1px;
 	padding: 9px 0px 0px 0px;
-	background: url(IMG/img02.gif) no-repeat left top;
+	background:black;
 	text-decoration: none;
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
@@ -200,7 +199,7 @@ a:hover {
 	width: 940px;
 	margin: 0 auto;
 	padding: 0px 0px 0px 40px;
-	background: url(IMG/img03.gif) repeat-y left top;
+	background: url(/IMG/img03.gif) repeat-y left top;
 }
 
 #page-bgtop {
