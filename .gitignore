@@ -3,8 +3,11 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 <<<<<<< HEAD
+<<<<<<< HEAD
 /node_modules/
 =======
+=======
+>>>>>>> NueveHackers/master
 /node_modules/
 
 <!DOCTYPE html>
@@ -163,4 +166,7 @@ Depende de ti aprovecharlo o lanzarlo al mar del olvido para nunca más poder rec
 
 </body>
 </html>
+<<<<<<< HEAD
+>>>>>>> NueveHackers/master
+=======
 >>>>>>> NueveHackers/master
