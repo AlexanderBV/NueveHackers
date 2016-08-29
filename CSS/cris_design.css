@@ -9,7 +9,7 @@
 body {
 	background:url(/IMG/renzler.gif);
 	/*background-repeat:no-repeat; /* Indicamos que no se repetira */
-	background-size:cover; /* imagen al 100% del ancho */
+	/*background-size:cover; /* imagen al 100% del ancho */
 	background-attachment: fixed; /* imagen fija */
 
 
