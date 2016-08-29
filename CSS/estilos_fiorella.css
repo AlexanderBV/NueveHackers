@@ -96,3 +96,12 @@ salud_main{
 entretenimiento_main{
     width: 960px;
 }
+#seccion{
+    width: 600px;
+    min-height: 400px;
+    background: yellow;
+    margin: 130px;
+    box-shadow: 1px 1px 10px #000;
+    display: inline-block;
+    padding-bottom: 20px;
+}
