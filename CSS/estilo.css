@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 
+
 }
 
 
@@ -20,7 +21,7 @@ header{
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 100;
+    z-index: 100px;
 
 }
 contenedor{
@@ -114,7 +115,7 @@ header label{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-10%) translateY(-100%);
 
 }
 
@@ -173,6 +174,8 @@ header label{
 #blog .contenedor{
     display: flex;
     justify-content: center;
+    transform: translateX(10%)
+
 }
 #blog .aricle{
    margin: 15px;
