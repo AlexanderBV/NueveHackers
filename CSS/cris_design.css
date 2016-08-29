@@ -131,7 +131,7 @@ marquee {
         -o-transition: all 500ms ease;
         transition: all 500ms ease;
         }
-
+/*botones de las redes sociales que aparecen a la izquierda*/
        .redes ul li .icon-facebook {background:#3b5998; }
        .redes ul li .icon-twitter{background:#00abf0;}
        .redes ul li .icon-google-plus{background:#d95232;}
