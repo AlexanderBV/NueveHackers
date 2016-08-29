@@ -115,7 +115,11 @@ header label{
     top: 50%;
     left: 50%;
 <<<<<<< HEAD
+<<<<<<< HEAD
     transform: translateX(-50%) translateY(-50%);
+=======
+    transform: translateX(-8%) translateY(-100%);
+>>>>>>> NueveHackers/master
 =======
     transform: translateX(-8%) translateY(-100%);
 >>>>>>> NueveHackers/master
@@ -179,6 +183,11 @@ header label{
     display: flex;
     justify-content: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+     transform: translateX(20%)
+>>>>>>> NueveHackers/master
 =======
 
      transform: translateX(20%)
