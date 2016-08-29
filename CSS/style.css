@@ -2,8 +2,13 @@
 body {
 	margin: 0;
 	padding: 0;
+<<<<<<< HEAD
 	background:#71706e
 		url(/IMG/img01.png) repeat-x left top;
+=======
+	background:rgba(252, 252, 6, 0.96)
+    url(IMG/img01.gif) repeat-x left top;
+>>>>>>> origin/master
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #787878;
