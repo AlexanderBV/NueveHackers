@@ -131,30 +131,22 @@ marquee {
         -o-transition: all 500ms ease;
         transition: all 500ms ease;
         }
-/*botones de las redes sociales que aparecen a la izquierda*/
-       .redes ul li .icon-facebook {background:#3b5998; }
-<<<<<<< HEAD
-<<<<<<< HEAD
-       .redes ul li .icon-twitter        {background:#00abf0;}
-       .redes ul li .icon-google-plus        {background:#d95232;}
-=======
-       .redes ul li .icon-twitter{background:#00abf0;}
-       .redes ul li .icon-google-plus{background:#d95232;}
->>>>>>> NueveHackers/master
-=======
-       .redes ul li .icon-twitter{background:#00abf0;}
-       .redes ul li .icon-google-plus{background:#d95232;}
->>>>>>> NueveHackers/master
-       .redes ul li .icon-pinterest{background:#ae181f;
-        }
-       .redes ul li .icon-google-drive {background: gray; }
-       .redes ul li .icon-instagram {background:#3b5935; }
-       .redes ul li .icon-vine {background:green; }
-       .redes ul li .icon-youtube {background:#ae181f }
-       .redes ul li .icon-github {background:gray; }
-       .redes ul li .icon-skype {background: #3b5998; }
 
-       .redes ul li a:hover {
+.redes ul li .icon-facebook{background:#3b5998;}
+.redes ul li .icon-twitter{background:#00abf0;}
+.redes ul li .icon-google-plus{background:#d95232;}
+.redes ul li .icon-twitter{background:#00abf0;}
+.redes ul li .icon-google-plus{background:#d95232;}
+.redes ul li .icon-twitter{background:#00abf0;}
+.redes ul li .icon-google-plus{background:#d95232;}
+.redes ul li .icon-pinterest{background:#ae181f;}
+.redes ul li .icon-google-drive{background: gray;}
+.redes ul li .icon-instagram{background:#3b5935; }
+.redes ul li .icon-vine{background:green;}
+.redes ul li .icon-youtube{background:#ae181f;}
+.redes ul li .icon-github{background:gray;}
+.redes ul li .icon-skype{background: #3b5998;}
+.redes ul li a:hover {
         padding: 10px 30px;
         background: black;
         }
