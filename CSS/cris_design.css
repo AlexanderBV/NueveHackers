@@ -8,20 +8,20 @@
 
 body {
 	background:url(/IMG/renzler.gif);
-	background-attachment: fixed; /* imagen fija */
+	background-attachment: fixed;
 
 
 	font-family:helvetica, arial, sans-serif;
 	line-height:20px;
 }
 
-.datostxt {
+.datostxt { /*nombre de mi clase*/
 	width: 90%;
 	max-width:900px;
 	margin: auto;
 }
 
-.barra{
+.barra{ /*barra de navegacion*/
     width: 90%;
 	max-width:2000px;
 	margin: auto;
@@ -131,7 +131,7 @@ marquee {
         -o-transition: all 500ms ease;
         transition: all 500ms ease;
         }
-
+/*botones de las redes sociales que aparecen a la izquierda*/
        .redes ul li .icon-facebook {background:#3b5998; }
 <<<<<<< HEAD
 <<<<<<< HEAD
