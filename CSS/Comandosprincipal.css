@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    width: 97.6%;
+    height: 679px;
+    border: 5px solid #000;
+    padding: 10px;
+    position: absolute;
+}
+#a1{
+    position: absolute;
+    text-decoration: none;
+    color: #FF0000;
+    font-size: 70px;
+    font-family: Forte;
+    border: 5px solid #000;
+    border-radius: 6px;
+    margin:  200px 2px 2px 430px;
+    background: green;
+}
+#a1:hover{
+    background: #00f;
+}
+
+#a2{
+    position: absolute;
+    text-decoration: none;
+    color: #FF0000;
+    font-size: 70px;
+    font-family: Forte;
+    border: 5px solid #000;
+    border-radius: 6px;
+    margin:  350px 2px 2px 515px;
+    background: green;
+}
+#a2:hover{
+    background: #00f;
+}
+
+#boton{
+    position: absolute;
+    margin:  660px 2px 2px 1150px;
+    width="76%";
+    border="0";
+}
