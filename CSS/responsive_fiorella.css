@@ -1,0 +1,61 @@
+@media screen and (max-width: 900px){
+
+    header #menu{
+		width: 98%;
+	}
+
+	#incio img{
+		height: 20px;
+
+	}
+
+    #barra{
+        width: 98%;
+    }
+    #curiosidades h2{
+        width: 50%;
+        font-size: 140%;
+    }
+    #curiosidades a{
+        width: 8%;
+        height: 15%;
+        font-size: 50%;
+         margin: -42px 1px 0px 0px;
+    }
+    #sist{
+        margin: -10px -10px -10px 0px;
+        height: 40px
+    }
+    section #inicio{
+        width: 50%;
+    }
+    section #logo {
+        height: 200px
+    }
+    #seccion{
+        width: 50%;
+    }
+    #article1{
+        width: 70%;
+        padding: 15px;
+    }
+    #article1 img{
+        margin: -30px 0px -40px -30px;
+        height: 15%;
+    }
+    #article1 p{
+        font-size: 50%;
+    }
+    #article2{
+        width: 70%;
+        padding: 15px;
+    }
+    #article2 img{
+        margin: -30px 0px -40px -30px;
+        height: 15%;
+    }
+    #article2 p{
+        font-size: 50%;
+    }
+
+}

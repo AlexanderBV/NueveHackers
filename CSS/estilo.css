@@ -114,7 +114,19 @@ header label{
     position: absolute;
     top: 50%;
     left: 50%;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    transform: translateX(-50%) translateY(-50%);
+=======
     transform: translateX(-8%) translateY(-100%);
+>>>>>>> NueveHackers/master
+=======
+    transform: translateX(-8%) translateY(-100%);
+>>>>>>> NueveHackers/master
+=======
+    transform: translateX(-8%) translateY(-100%);
+>>>>>>> NueveHackers/master
 
 }
 
@@ -174,8 +186,21 @@ header label{
 #blog .contenedor{
     display: flex;
     justify-content: center;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
      transform: translateX(20%)
+>>>>>>> NueveHackers/master
+=======
+
+     transform: translateX(20%)
+>>>>>>> NueveHackers/master
+=======
+
+     transform: translateX(20%)
+>>>>>>> NueveHackers/master
 }
 #blog .aricle{
    margin: 15px;
