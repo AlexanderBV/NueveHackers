@@ -134,3 +134,14 @@ footer{
     border-top:4px solid #086A87;
     border-bottom: 4px solid #086A87;
 }
+#creditos{
+    width: 100%;
+    background: #01A9DB;
+}
+#creditos h5{
+    color: #fff;
+    font-family: Verdana;
+    font-size: 14px;
+    text-align: center;
+    padding: 8px;
+}
